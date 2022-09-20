@@ -65,11 +65,11 @@ export const NavbarGlobal = () => {
                 <Dropdown.Divider />
                 <Dropdown.Divider />
                 {isUserLoggedIn() ? (
+                  <Dropdown.Item onClick={logOut}>Log Out</Dropdown.Item>
+                ) : (
                   <Dropdown.Item onClick={signInWithGoogle}>
                     Log In
                   </Dropdown.Item>
-                ) : (
-                  <Dropdown.Item onClick={logOut}>Log Out</Dropdown.Item>
                 )}
               </Dropdown>
               <Navbar.Toggle />
