@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [andresaliba/react-social-eyes-firebase](https://github.com/andresaliba/react-social-eyes-firebase)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|12/14/23 <br/>Report generated|
+|23<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -202,9 +202,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (6)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -214,6 +214,7 @@ Full tech stack [here](/techstack.md)
 |[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.3.0|09/20/22|Andre |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.1.8|09/20/22|Andre |MIT|N/A|
 |[vite](https://www.npmjs.com/vite)|v3.0.9|09/20/22|Andre |N/A|[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
+|[yup](https://www.npmjs.com/yup)|v0.32.11|09/20/22|Andre |MIT|N/A|
 
 <br/>
 <div align='center'>
