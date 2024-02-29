@@ -3,14 +3,14 @@
 ## Tech Stack
 andresaliba/react-social-eyes-firebase is built on the following main stack:
 
-- [Firebase](https://firebase.google.com/) – Realtime Backend / API
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - [Flowbite](https://flowbite.com/) – UI Components
@@ -23,14 +23,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 andresaliba/react-social-eyes-firebase is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/40090/default_dd2d5033d0363b16e87367cb62b402aa9da531bf.png' alt='Flowbite'/> [Flowbite](https://flowbite.com/) – UI Components
@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [andresaliba/react-social-eyes-firebase](https://github.com/andresaliba/react-social-eyes-firebase)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|01/05/24 <br/>Report generated|
+|23<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -213,7 +213,7 @@ Full tech stack [here](/techstack.md)
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|09/20/22|Andre |MIT|N/A|
 |[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.3.0|09/20/22|Andre |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.1.8|09/20/22|Andre |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v3.0.9|09/20/22|Andre |N/A|[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
+|[vite](https://www.npmjs.com/vite)|v3.0.9|09/20/22|Andre |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
 |[yup](https://www.npmjs.com/yup)|v0.32.11|09/20/22|Andre |MIT|N/A|
 
 <br/>
